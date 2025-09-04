@@ -1,1 +1,1 @@
-BOT_TOKEN = ''#<--your token
+BOT_TOKEN = ''#<--твой токен
