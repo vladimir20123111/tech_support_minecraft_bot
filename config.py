@@ -1,1 +1,1 @@
-BOT_TOKEN = ''#<--твой токен
+BOT_TOKEN = '8141790193:AAH-xIYPKrRjHF8hAW3cDhNqDaJucwuCbH8'#<--твой токен
